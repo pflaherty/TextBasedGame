@@ -8,4 +8,4 @@ Project is created with:
 * Python
 
 ## What I Learned
-This was a school project that was both challenging and fun. It was a great introduction to programming languges. As this was my first introduction to programming, it was important to learn loops.
+This was a school project that was both challenging and fun. It was a great introduction to programming languges. As this was my first introduction to programming, it was important to learn and understand loops.
